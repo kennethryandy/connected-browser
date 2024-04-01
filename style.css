@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  overflow: hidden;
+  background-color: #161c24;
+  color: #ffffff;
+}
+
+svg {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+}
